@@ -1,0 +1,54 @@
+
+/********************TAG SELECTORS********************/
+hr {
+  border-style: dashed dashed none none;
+  width: 3%;
+  /*height: 0px; */
+  border-color: #a7bbc7;
+  border-width: 5px;
+  border-radius: 10px 100px / 120px;
+}
+
+h1 {
+  color: #3f3697;
+  font-family: Rubik, sans-serif;
+}
+
+h3 {
+  color: #3f3697;
+  font-family: Rubik, sans-serif;
+  font-size: 20px;
+}
+
+body {
+  background-color: #EEEEEE;
+  font-family: Rubik, sans-serif;
+  color: #334443;
+  word-spacing: 2px;
+  letter-spacing: 3px;
+
+
+}
+
+p {
+  font-family: Rubik, sans-serif;
+  color: #334443;
+  word-spacing: 2px;
+  letter-spacing: 3px;
+}
+
+/********************CLASS SELECTORS********************/
+
+.bold {
+  font-weight: bold;
+}
+
+.lite {
+  font-weight: normal;
+}
+
+/********************ID SELECTORS********************/
+
+#hover:hover{
+  color: #21094e;
+}
