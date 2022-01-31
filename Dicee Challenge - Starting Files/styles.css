@@ -1,0 +1,65 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+
+.BUTTON_RDV {
+   -webkit-border-radius:  2.0vw;
+   -moz-border-radius:  2.0vw;
+   border-radius: 1.0vw;
+   color:#fff;
+   font-family: 'Ubuntu', sans-serif;
+   font-size: 3.0vw;
+   font-weight: 100;
+   padding:  2.5vw;
+   background-color: #9c060c;
+   border: solid #9c060c 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 3% 2% 10% 2%;
+   max-width:300%;
+   max-height:300%;
+   margin: 3% 40% 0 45%;
+
+ }
+
+body {
+  background-color: #fff;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 7vw;
+  color: #9c060c;
+}
+
+p {
+  font-size: 5vw;
+  margin: 20%;
+  color: #9c060c;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+img {
+  width: 70%;
+  margin: 0 20% 20% 20%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #9c060c;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+
+}
